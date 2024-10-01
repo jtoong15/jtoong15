@@ -193,12 +193,7 @@ class singly_linked_list():
 def main():
     sll = singly_linked_list()
 
-    print("===================================================")
-    print(f"{'TOONG, JUSTINE A.   BSIT  - 2A':^50}")
-    print(f"{'CHOSEN LINKED LIST: SINGLY LINKED LIST':^50}")
-    print(f"{'DATA STRUCTURES AND ALGORITHMS - MID TERM PROJECT':^50}")
-    print("===================================================")
-    
+  
     while True:
         print("\n===================================================")
         print(f"{'MAIN MENU':^50}")
