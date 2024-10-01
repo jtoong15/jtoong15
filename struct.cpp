@@ -13,7 +13,7 @@
      };
 
 int main(){
-    addr my_address = {"Justine A. Toong","Atis Drive Baliwasan", "Zamboanga City" , "Philippines", 7000};
+    addr my_address = {"Struct Function","Atis Drive", "Zamboanga City" , "Philippines", 7000};
     system("cls");
 
     std::cout << my_address.name << " " << my_address.street << " " << my_address.city << " " << my_address.state << " " << my_address.zip;
