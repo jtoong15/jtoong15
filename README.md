@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @jtoong15
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jtoong
+- 📫 How to reach me ...jtoong68@gmail.com
 
 <!---
 jtoong15/jtoong15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
