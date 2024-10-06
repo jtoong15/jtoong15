@@ -18,3 +18,4 @@ phone = input("Enter what do you feel right now?: ")
 print(emoji_conversion(phone))
 
 
+
